@@ -1,10 +1,8 @@
 #Common OTA url for all devices
-ota_url=https://raw.githubusercontent.com/Tesla-M-Devices/OTA_config/master/TeslaOTA.xml
+ota_url=https://raw.githubusercontent.com/bhi768/OTA/master/candy_ota.xml
 release_type=Stable
-device_name=ro.product.device
- 
-#example ro.tesla.version=Tesla-wt88047-7.0.Beta.v3.1-Official-20161104-0148.zip
-version_source=ro.tesla.version
+device_name=ro.candy.device
+version_source=ro.candy.ota.version
 version_delimiter=-
 version_position=4
 version_format=yyyyMMdd

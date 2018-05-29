@@ -1,5 +1,5 @@
 #Common OTA url for all devices
-ota_url=https://raw.githubusercontent.com/bhi768/OTA/master/candy_ota.xml
+ota_url=https://github.com/CandyRoms/OTA/config/candy_ota.xml
 release_type=Stable
 device_name=ro.candy.device
 version_source=ro.candy.ota.version

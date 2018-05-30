@@ -10,12 +10,8 @@
                 description="Download latest Open GApps">https://opengapps.org/</GappsUrl>
         </mido>
         <cheeseburger>
-             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180523-2215.zip</Filename>
-             <RomUrl id="rom" title="" description="">https://androidfilehost.com/?fid=818222786056032546</RomUrl>
-             <XDAUrl
-                id="xda"
-                title="XDA"
-                description="Visit CandyRoms OP5 XDA thread">https://forum.xda-developers.com/oneplus-5/development/rom-candy8-1-alpha-t3742956</XDAUrl>            
+             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180530-0155.zip</Filename>
+             <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/candyroms/files/Cheeseburger/</RomUrl>           
              <GappsUrl
                 id="gapps"
                 title="Gapps"

@@ -2,8 +2,8 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <cheeseburger>
-             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180601-1100.zip</Filename>
-             <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=962339331458995794</RomUrl>
+             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180601-1355.zip</Filename>
+             <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=818222786056034235</RomUrl>
              <GappsUrl
                 id="gapps"
                 title="Gapps"

@@ -11,7 +11,8 @@
         </mido>
         <cheeseburger>
              <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180601-0539.zip</Filename>
-             <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/candyroms/files/Cheeseburger</RomUrl>
+             <!--<RomUrl id="rom" title="" description="">https://sourceforge.net/projects/candyroms/files/Cheeseburger</RomUrl> -->
+             <RomUrl id="rom" title="" description="">https://androidfilehost.com/?w=files&flid=241750</RomUrl>
              <GappsUrl
                 id="gapps"
                 title="Gapps"

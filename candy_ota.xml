@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <mido>
-             <Filename>Candy-mido-8.1-OFFICIAL-20180601-1205.zip</Filename>
-             <RomUrl id="rom" title="" description="">https://androidfilehost.com/?fid=818222786056034149</RomUrl>
-             <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest Open GApps">https://opengapps.org/</GappsUrl>
-        </mido>
         <cheeseburger>
              <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180601-1010.zip</Filename>
              <!--<RomUrl id="rom" title="" description="">https://sourceforge.net/projects/candyroms/files/Cheeseburger</RomUrl> -->

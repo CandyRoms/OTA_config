@@ -10,7 +10,7 @@
                 description="Download latest Open GApps">https://opengapps.org/</GappsUrl>
         </mido>
         <cheeseburger>
-             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180530-0241.zip</Filename>
+             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180601-0539.zip</Filename>
              <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/candyroms/files/Cheeseburger</RomUrl>
              <GappsUrl
                 id="gapps"

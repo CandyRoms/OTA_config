@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <cheeseburger>
-             <Filename>Candy-OnePlus5-8.1-OFFICIAL-20180601-1100.zip</Filename>
+             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180601-1100.zip</Filename>
              <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=962339331458995794</RomUrl>
              <GappsUrl
                 id="gapps"

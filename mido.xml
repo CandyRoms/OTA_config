@@ -2,8 +2,8 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <mido>
-             <Filename>Candy-mido-8.1-OFFICIAL-20180601-1600.zip</Filename>
-             <RomUrl id="rom" title="" description="">https://androidfilehost.com/?fid=890278863836289094</RomUrl>
+             <Filename>Candy-mido-8.1-OFFICIAL-20180603-1547.zip</Filename>
+             <RomUrl id="rom" title="" description="">https://androidfilehost.com/?fid=674106145207491040</RomUrl>
              <GappsUrl
                 id="gapps"
                 title="Gapps"

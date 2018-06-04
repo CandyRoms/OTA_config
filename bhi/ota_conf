@@ -1,8 +1,0 @@
-#Common OTA url for all devices
-ota_url=https://raw.githubusercontent.com/CandyRoms/OTA_config/c8.1/mido.xml
-release_type=Stable
-device_name=ro.candy.device
-version_source=ro.candy.ota.version
-version_delimiter=-
-version_position=4
-version_format=yyyyMMdd-hhmm

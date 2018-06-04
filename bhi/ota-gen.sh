@@ -1,9 +1,9 @@
 #!/bin/bash
 device=$1
 cd ~/bhi/OTA_config/bhi
-oldzip=$(grep "<Filename>Candy-mido" mido.xml  | sed -e 's|</\?Filename>||g')
+oldzip=$(grep "<Filename>Candy-mido" $mido.xml  | sed -e 's|</\?Filename>||g')
 newzip=$2
-sed -i "s/$oldzip/$newzip/g" mido.xml
+sed -i "s/$oldzip/$newzip/g" $mido.xml
 cd -
 cd ~/bhi/OTA_config/bhi
 echo "OTA Update for Candy $device $(date +%Y%m%d) Build" > /tmp/candyota

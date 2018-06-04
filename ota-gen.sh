@@ -1,7 +1,7 @@
 #!/bin/bash
 device=$1
 cd ~/bhi/OTA_config/bhi
-oldzip=$(grep "<Filename>Candy" $device.xml  | sed -e 's|</\?Filename>||g')
+oldzip=$(grep "<Filename>Candy-mido" $device.xml  | sed -e 's|</\?Filename>||g')
 newzip=$2
 sed -i "s/$oldzip/$newzip/g" $device.xml
 cd -

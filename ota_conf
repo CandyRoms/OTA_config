@@ -5,4 +5,4 @@ device_name=ro.candy.device
 version_source=ro.candy.ota.version
 version_delimiter=-
 version_position=4
-version_format=yyyyMMdd-hhmm
+version_format=yyyyMMdd

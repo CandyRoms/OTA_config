@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-<<<<<<< HEAD
-        <cheeseburger>
-             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180601-0539.zip</Filename>
-             <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/candyroms/files/Cheeseburger</RomUrl>
-=======
         <bacon>
              <Filename>Candy-bacon-8.1-OFFICIAL-20180603-1120.zip</Filename>
              <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=746163614322268655</RomUrl>
@@ -41,7 +36,6 @@
         <oneplus3>
              <Filename>Candy-oneplus3-8.1-OFFICIAL-20180603-1038.zip</Filename>
              <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=818222786056034606</RomUrl>
->>>>>>> cbffe7da27d6b3748d1c576c6311baa7045d9467
              <GappsUrl
                 id="gapps"
                 title="Gapps"

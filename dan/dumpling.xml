@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <dumpling>
+             <Filename>Candy-dumpling-8.1-OFFICIAL-20180605-1210.zip</Filename>
+             <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=890278863836289802</RomUrl>
+             <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Beans GApps">https://androidfilehost.com/?w=files&flid=18994</GappsUrl>
+        </dumpling>
+    </Stable>
+</SlimOTA>

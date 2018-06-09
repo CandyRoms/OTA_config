@@ -43,7 +43,7 @@
             <BuildUrl
                 id="build"
                 title="Build"
-                description="Download a Build">https://androidfilehost.com/?w=files&flid=241750</BuildUrl>
+                description="Download a Build">https://androidfilehost.com/?w=files&amp;flid=241750</BuildUrl>
             <Firmware1Url
                 id="firmware"
                 title="Recommended Firmware"
@@ -59,7 +59,7 @@
             <BuildUrl
                 id="build"
                 title="Build"
-                description="Download a Build">https://www.androidfilehost.com/?w=files&flid=252702</BuildUrl>
+                description="Download a Build">https://www.androidfilehost.com/?w=files&amp;flid=252702</BuildUrl>
             <Firmware1Url
                 id="firmware"
                 title="Recommended Firmware"
@@ -91,10 +91,10 @@
             <BuildUrl
                 id="build"
                 title="Build"
-                description="Download a Build">https://androidfilehost.com/?w=files&flid=241750</BuildUrl>
+                description="Download a Build">https://androidfilehost.com/?w=files&amp;flid=241750</BuildUrl>
             <Firmware1Url
                 id="firmware"
-                title="Recommended Oneplus3 Firmware "
+                title="Recommended Firmware "
                 description="Download Jamal2367's Oneplus3 OB36 Firmware">https://forum.xda-developers.com/oneplus-3/how-to/radio-modem-collection-flashable-zips-t3468628</Firmware1Url>
             <Firmware2Url
                 id="firmware"

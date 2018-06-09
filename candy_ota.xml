@@ -46,8 +46,8 @@
                 description="Download a Build">https://androidfilehost.com/?w=files&flid=241750</BuildUrl>
             <Firmware1Url
                 id="firmware"
-                title="Recommended Firmware "
-                description="Download Oneplus5 OOS 5.1.2 Firmware">https://forum.xda-developers.com/oneplus-5/how-to/firmware-modem-collection-flashable-zips-t3627049</Firmware1Url>
+                title="Recommended Firmware"
+                description="Download Jamal2367's Oneplus5 OOS 5.1.2 Firmware">https://forum.xda-developers.com/oneplus-5/how-to/firmware-modem-collection-flashable-zips-t3627049</Firmware1Url>
         </cheeseburger>
         <dumpling>
              <Filename>Candy-dumpling-8.1-OFFICIAL-20180608-1051.zip</Filename>
@@ -62,7 +62,7 @@
                 description="Download a Build">https://www.androidfilehost.com/?w=files&flid=252702</BuildUrl>
             <Firmware1Url
                 id="firmware"
-                title="Recommended Firmware "
+                title="Recommended Firmware"
                 description="Download Doc's Oneplus5T OOS 5.1.2 Firmware">https://forum.xda-developers.com/showthread.php?t=3728665</Firmware1Url>
         </dumpling>
         <kenzo>
@@ -88,6 +88,18 @@
                 id="gapps"
                 title="Gapps"
                 description="Download latest Beans GApps">https://androidfilehost.com/?fid=674106145207491329</GappsUrl>
+            <BuildUrl
+                id="build"
+                title="Build"
+                description="Download a Build">https://androidfilehost.com/?w=files&flid=241750</BuildUrl>
+            <Firmware1Url
+                id="firmware"
+                title="Recommended Oneplus3 Firmware "
+                description="Download Jamal2367's Oneplus3 OB36 Firmware">https://forum.xda-developers.com/oneplus-3/how-to/radio-modem-collection-flashable-zips-t3468628</Firmware1Url>
+            <Firmware2Url
+                id="firmware"
+                title="Recommended Oneplus3T Firmware "
+                description="Download kamilmirza's Oneplus3T OB27 Firmware">https://forum.xda-developers.com/oneplus-3t/how-to/firmware-beta-10-t3631166</Firmware2Url>
         </oneplus3>
         <zuk>
              <Filename>Candy-zuk-8.1-OFFICIAL-20180603-1120.zip</Filename>

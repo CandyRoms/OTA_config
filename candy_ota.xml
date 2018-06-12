@@ -36,6 +36,10 @@
                 id="gapps"
                 title="Gapps"
                 description="Download latest Open GApps">http://www.opengapps.org/</GappsUrl>
+            <VendorUrl
+            	id="vendor"
+            	title="Recommended Vendor"
+            	description="Download June Vendor">https://androidfilehost.com/?w=files&amp;flid=234725&amp;sort_by=date&amp;sort_dir=DESC</VendorUrl>
         </bullhead>
         <cheeseburger>
             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180609-0859-Need5.1.2fw.zip</Filename>

@@ -11,8 +11,8 @@
                 description="Download latest Open GApps">http://www.opengapps.org/</GappsUrl>
         </axon7>
         <bacon>
-            <Filename>Candy-bacon-8.1-OFFICIAL-20180705-0303.zip</Filename>
-            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528040415</RomUrl>
+            <Filename>Candy-bacon-8.1-OFFICIAL-20180706-1242.zip</Filename>
+            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528041417</RomUrl>
             <BuildUrl
                 id="build"
                 title="Build"
@@ -23,8 +23,8 @@
                 description="Download latest Open GApps">http://www.opengapps.org/</GappsUrl>
         </bacon>
         <berkeley>
-            <Filename>Candy-berkeley-8.1-OFFICIAL-20180705-0124.zip</Filename>
-            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528040416</RomUrl>
+            <Filename>Candy-berkeley-8.1-OFFICIAL-20180706-1154.zip</Filename>
+            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528041419</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -43,8 +43,8 @@
             	description="Download July Vendor">https://androidfilehost.com/?w=files&amp;flid=234725&amp;sort_by=date&amp;sort_dir=DESC</VendorUrl>
         </bullhead>
         <cheeseburger>
-            <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180704-2153.zip</Filename>
-            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528040417</RomUrl>
+            <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180706-1035.zip</Filename>
+            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528041349</RomUrl>
             <BuildUrl
                 id="build"
                 title="Build"
@@ -59,8 +59,8 @@
                 description="Download Jamal2367's Oneplus5 OOS 5.1.2 Firmware">https://forum.xda-developers.com/oneplus-5/how-to/firmware-modem-collection-flashable-zips-t3627049</Firmware1Url>
         </cheeseburger>
         <dumpling>
-             <Filename>Candy-dumpling-8.1-OFFICIAL-20180704-2219.zip</Filename>
-             <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528040420</RomUrl>
+             <Filename>Candy-dumpling-8.1-OFFICIAL-20180706-1130.zip</Filename>
+             <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528041418</RomUrl>
              <BuildUrl
                 id="build"
                 title="Build"
@@ -91,8 +91,8 @@
                 description="Download latest Open GApps">https://opengapps.org/</GappsUrl>
         </mido>
         <oneplus3>
-             <Filename>Candy-oneplus3-8.1-OFFICIAL-20180705-0050.zip</Filename>
-             <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528040419</RomUrl>
+             <Filename>Candy-oneplus3-8.1-OFFICIAL-20180706-0905.zip</Filename>
+             <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528041420</RomUrl>
              <BuildUrl
                 id="build"
                 title="Build"

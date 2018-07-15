@@ -3,8 +3,8 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <axon7>
-            <Filename>Candy-axon7-8.1-OFFICIAL-20180603-1120.zip</Filename>
-            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=746163614322268655555</RomUrl>
+            <Filename>Candy-axon7-8.1-OFFICIAL-20180715-1537.zip</Filename>
+            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528049430</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"

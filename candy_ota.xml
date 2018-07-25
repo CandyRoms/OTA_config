@@ -106,7 +106,7 @@
                 title="Recommended OnePlus3 Firmware: OB39"
                 description="Download Jamal2367's Oneplus3 Firmware">https://forum.xda-developers.com/oneplus-3/how-to/radio-modem-collection-flashable-zips-t3468628</Firmware1Url>
             <Firmware2Url
-                id="firmware"
+                id="firmware2"
                 title="Recommended Oneplus3T Firmware: OB30"
                 description="Download kamilmirza's Oneplus3T Firmware">https://forum.xda-developers.com/oneplus-3t/how-to/firmware-beta-10-t3631166</Firmware2Url>
         </oneplus3>

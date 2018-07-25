@@ -11,8 +11,8 @@
                 description="Download latest Open GApps">http://www.opengapps.org/</GappsUrl>
         </axon7>
         <bacon>
-            <Filename>Candy-bacon-8.1-OFFICIAL-20180707-2142.zip</Filename>
-            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528043944</RomUrl>
+            <Filename>Candy-bacon-8.1-OFFICIAL-20180724-2320.zip</Filename>
+            <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=5862345805528057641</RomUrl>
             <BuildUrl
                 id="build"
                 title="Build"

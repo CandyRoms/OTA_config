@@ -81,7 +81,6 @@
                 id="gapps"
                 title="Gapps"
                 description="Download latest Open GApps">http://www.opengapps.org/</GappsUrl>
-        </kenzo>
         <mido>
              <Filename>Candy-mido-8.1-OFFICIAL-20180704-0703.zip</Filename>
              <RomUrl id="rom" title="" description="">https://androidfilehost.com/?fid=5862345805528039461</RomUrl>
@@ -104,7 +103,7 @@
             <Firmware1Url
                 id="firmware"
                 title="Recommended OnePlus3 Firmware: OB39"
-                description="Download Jamal2367's Oneplus3 Firmware">https://forum.xda-developers.com/oneplus-3/how-to/radio-modem-collection-flashable-zips-t3468628</Firmware1Url>
+                description="Download MarcoLK's Oneplus3 Firmware">https://goo.gl/gRyXNC</Firmware1Url>
             <Firmware2Url
                 id="firmware2"
                 title="Recommended Oneplus3T Firmware: OB30"

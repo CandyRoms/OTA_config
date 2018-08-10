@@ -31,8 +31,8 @@
                 description="Download latest Open GApps">http://www.opengapps.org/</GappsUrl>
         </berkeley>
         <bullhead>
-            <Filename>Candy-bullhead-8.1-OFFICIAL-20180707-1025.zip</Filename>
-            <RomUrl id="rom" title="" description="Download latest build">https://androidfilehost.com/?fid=5862345805528041905</RomUrl>
+            <Filename>Candy-bullhead.Final-8.1-OFFICIAL-20180808-1129.zip</Filename>
+            <RomUrl id="rom" title="" description="Download latest build">https://androidfilehost.com/?fid=5862345805528069063</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -40,7 +40,7 @@
             <VendorUrl
             	id="vendor"
             	title="Recommended Vendor"
-            	description="Download July Vendor">https://androidfilehost.com/?w=files&amp;flid=234725&amp;sort_by=date&amp;sort_dir=DESC</VendorUrl>
+            	description="Download August Vendor">https://androidfilehost.com/?w=files&amp;flid=234725&amp;sort_by=date&amp;sort_dir=DESC</VendorUrl>
         </bullhead>
         <cheeseburger>
             <Filename>Candy-cheeseburger-8.1-OFFICIAL-20180804-2230.zip</Filename>

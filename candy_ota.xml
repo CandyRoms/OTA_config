@@ -110,9 +110,21 @@
                 title="Recommended Oneplus3T Firmware: OB30"
                 description="Download kamilmirza's Oneplus3T Firmware">https://forum.xda-developers.com/oneplus-3t/how-to/firmware-beta-10-t3631166</Firmware2Url>
         </oneplus3>
+        <z2_plus>
+             <Filename>Candy-z2_plus-8.1-OFFICIAL-20180809-0747.zip</Filename>
+             <RomUrl id="rom" title="" description="Download latest build">https://www.androidfilehost.com/?fid=3700668719832237398</RomUrl>
+             <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://www.opengapps.org/</GappsUrl>
+        </z2_plus>
         <zuk>
              <Filename>Candy-zuk-8.1-OFFICIAL-20180603-1120.zip</Filename>
              <RomUrl id="rom" title="" description="Download latest build">https://www.androidfilehost.com/?fid=746163614322268655555</RomUrl>
+             <BuildUrl
+                id="build"
+                title="Build"
+                description="Download other builds">https://www.androidfilehost.com/?w=files&amp;flid=274826</BuildUrl>
              <GappsUrl
                 id="gapps"
                 title="Gapps"

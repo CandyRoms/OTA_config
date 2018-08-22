@@ -83,8 +83,8 @@
                 description="Download latest Open GApps">http://www.opengapps.org/</GappsUrl>
         </kenzo>
         <mido>
-             <Filename>Candy-mido-8.1-OFFICIAL-20180704-0703.zip</Filename>
-             <RomUrl id="rom" title="" description="Download latest build">https://androidfilehost.com/?fid=5862345805528039461</RomUrl>
+             <Filename>Candy-mido-8.1-OFFICIAL-20180822-0911.zip</Filename>
+             <RomUrl id="rom" title="" description="Download latest build">https://androidfilehost.com/?fid=1322778262903987329</RomUrl>
              <GappsUrl
                 id="gapps"
                 title="Gapps"

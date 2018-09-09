@@ -31,8 +31,8 @@
                 description="Download latest Open GApps">http://www.opengapps.org/</GappsUrl>
         </berkeley>
         <bullhead>
-            <Filename>Candy-bullhead-8.1-OFFICIAL-20180907-1704.zip</Filename>
-            <RomUrl id="rom" title="" description="Download latest build">https://androidfilehost.com/?fid=1322778262903999828</RomUrl>
+            <Filename>Candy-bullhead-8.1-OFFICIAL-20180908-1540.zip</Filename>
+            <RomUrl id="rom" title="" description="Download latest build">https://androidfilehost.com/?w=files&amp;flid=226887</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
